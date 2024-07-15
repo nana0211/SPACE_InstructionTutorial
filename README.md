@@ -1,6 +1,6 @@
 # SPACE_InstructionTutorial
 # SPACE
-
+![Space Game Logo](Splashscreen.png)
 ## 1. Introduction of the game SPACE
 Welcome to **SPACE**, an exciting interstellar adventure game that takes you through the cosmos! In SPACE, you'll navigate through galaxies, encounter alien civilizations, and conquer challenging missions. Whether you are a casual gamer or a seasoned pro, SPACE offers an immersive experience for all.
 
