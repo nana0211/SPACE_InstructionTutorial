@@ -2,7 +2,8 @@
 # Welcome to the <SPACE> cognitive evaluation game.
 ![Space Game Logo](Splashscreen.png)
 ## 1. Introduction of the game SPACE
-Welcome to **SPACE**, an exciting interstellar adventure game that takes you through the cosmos! In SPACE, you'll navigate through galaxies, encounter alien civilizations, and conquer challenging missions. Whether you are a casual gamer or a seasoned pro, SPACE offers an immersive experience for all.
+Welcome to **SPACE**, SPACE is a tablet-based gamified assessment of spatial ability in which participants complete a series of tasks that are known to recruit brain areas (i.e.,hippocampus and entorhinal cortex) affected in patients suffering from dementia. In SPACE, participants take the role of an astronaut who has been sent on a mission to uncover the
+potential of a new planet to harbour life. Following an extensive training phase, participants are asked to complete five spatial tasks that are specifically designed to engage different aspects of their navigation ability (i.e., path integration, egocentric pointing, mapping, associative memory, and perspective taking). Individual or aggregated test scores in SPACE will reveal individual differences in spatial ability that may constitute markers of cognitive status that may be used for the early diagnosis of cognitive impairment.
 
 ## 2. Log in
 To start your adventure, you need to log in to the game:
