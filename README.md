@@ -7,7 +7,7 @@
 - [2. Log in](#2-log-in)
 - [3. Play! Configuration! Movie](#3-play-configuration-movie)
   - [Play](#play)
-  - [Configuration](#configuration)
+  - [Settings](#settings)
     - [Configuration Panel – Instructions](#configuration-panel--instructions)
     - [Steps to Configure the Path Integration](#steps-to-configure-the-path-integration)
     - [Error When Activating a Trial](#error-when-activating-a-trial)
