@@ -5,7 +5,7 @@
 # Table of Content
 - [1. Introduction of the game SPACE](#1-introduction-of-the-game-space)
 - [2. Log in](#2-log-in)
-- [3. Play! Configuration! Movie](#3-play-configuration-movie)
+- [3. Play! Settings! Movie!](#3-play-configuration-movie)
   - [Play](#play)
   - [Settings](#settings)
     - [Configuration Panel – Instructions](#configuration-panel--instructions)
