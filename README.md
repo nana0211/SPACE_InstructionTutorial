@@ -1,6 +1,25 @@
 # SPACE_InstructionTutorial
 # Welcome to the <SPACE> cognitive evaluation game.
 ![Space Game Logo](Splashscreen.png)
+
+# Table of Content
+- [1. Introduction of the game SPACE](#1-introduction-of-the-game-space)
+- [2. Log in](#2-log-in)
+- [3. Play! Configuration! Movie](#3-play-configuration-movie)
+  - [Play](#play)
+  - [Configuration](#configuration)
+    - [Configuration Panel – Instructions](#configuration-panel--instructions)
+    - [Steps to Configure the Path Integration](#steps-to-configure-the-path-integration)
+    - [Error When Activating a Trial](#error-when-activating-a-trial)
+    - [Solving Errors](#solving-errors)
+    - [Order of Administration of Trials](#order-of-administration-of-trials)
+    - [Landmarks Orientation](#landmarks-orientation)
+    - [Quick Configuration](#quick-configuration)
+    - [Randomized Placement](#randomized-placement)
+  - [Movie](#movie)
+- [4. Setup your own customized game with configuration](#4-setup-your-own-customized-game-with-configuration)
+- [5. Output Data](#5-output-data)
+
 ## 1. Introduction of the game SPACE
 Welcome to **SPACE**, SPACE is a tablet-based gamified assessment of spatial ability in which participants complete a series of tasks that are known to recruit brain areas (i.e.,hippocampus and entorhinal cortex) affected in patients suffering from dementia. In SPACE, participants take the role of an astronaut who has been sent on a mission to uncover the
 potential of a new planet to harbour life. Following an extensive training phase, participants are asked to complete five spatial tasks that are specifically designed to engage different aspects of their navigation ability (i.e., path integration, egocentric pointing, mapping, associative memory, and perspective taking). Individual or aggregated test scores in SPACE will reveal individual differences in spatial ability that may constitute markers of cognitive status that may be used for the early diagnosis of cognitive impairment.
