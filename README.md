@@ -28,8 +28,9 @@ potential of a new planet to harbour life. Following an extensive training phase
 To start your adventure, you need to log in to the game:
 
 1. Open the SPACE game application.
-2. Enter your username and password.
+2. Enter your username and password that we send you.
 3. Click the **Log In** button.
+4. Once you log in, the app will auto login everytime you use SPACE again. 
 
 If you don't have an account yet, click on **Sign Up** to create a new one.
 
