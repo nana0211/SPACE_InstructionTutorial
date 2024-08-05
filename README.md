@@ -143,7 +143,7 @@ Once satisfied with the settings, press **Done** to apply and save your configur
 
 ---
 
-### Movie [Nana]
+### Movie
 Watch the introductory movie to get a feel of the game:
 
 1. From the main menu, select **Movie**.
