@@ -20,11 +20,11 @@
 - [4. Setup your own customized game with configuration](#4-setup-your-own-customized-game-with-configuration)
 - [5. Output Data](#5-output-data)
 
-## 1. Introduction of the game SPACE
+## 1. Introduction of the game SPACE [Giorgio]
 Welcome to **SPACE**, SPACE is a tablet-based gamified assessment of spatial ability in which participants complete a series of tasks that are known to recruit brain areas (i.e.,hippocampus and entorhinal cortex) affected in patients suffering from dementia. In SPACE, participants take the role of an astronaut who has been sent on a mission to uncover the
 potential of a new planet to harbour life. Following an extensive training phase, participants are asked to complete five spatial tasks that are specifically designed to engage different aspects of their navigation ability (i.e., path integration, egocentric pointing, mapping, associative memory, and perspective taking). Individual or aggregated test scores in SPACE will reveal individual differences in spatial ability that may constitute markers of cognitive status that may be used for the early diagnosis of cognitive impairment.
 
-## 2. Log in
+## 2. Log in [Nana]
 To start your adventure, you need to log in to the game:
 
 1. Open the SPACE game application.
@@ -33,7 +33,7 @@ To start your adventure, you need to log in to the game:
 
 If you don't have an account yet, click on **Sign Up** to create a new one.
 
-## 3. Play! Configuration! Movie
+## 3. Play! Settings! Movie [Movie- nana]
 ### Play
 Once logged in, you can start playing:
 
@@ -41,8 +41,8 @@ Once logged in, you can start playing:
 2. Choose your spaceship and customize your avatar.
 3. Start your mission and enjoy the adventure.
 
-### Configuration
-#### Configuration Panel – Instructions
+### Settings
+#### Configuration Panel – Instructions [Somehow Done]
 
 This is the panel in which you can set the configuration of the path integration task and decide which landmarks to involve in it. In the configuration panel there are different sections: the **Canvas**, the **Top Panel (TP)**, the **Right Panel (RP)**, the **Left Panel (LP)**, and the **Bottom Panel (BP)**. Each of these parts has its specific functionality.
 
@@ -142,8 +142,7 @@ Once satisfied with the settings, press **Done** to apply and save your configur
 
 ---
 
-
-### Movie
+### Movie [Nana]
 Watch the introductory movie to get a feel of the game:
 
 1. From the main menu, select **Watch Intro Movie**.
@@ -158,12 +157,15 @@ You can tailor the game to your liking by setting up a customized game:
 4. Save your custom game settings.
 5. Click **Start Custom Game** to begin playing with your chosen configuration.
 
-## 5. Output Data
+## 5. Output Data 
 After each game session, you can view and manage your output data:
-
-1. From the main menu, go to **Profile** and then **Game History**.
-2. Select the session you want to review.
-3. View detailed statistics such as score, achievements, and progress.
-4. Export your game data in CSV format for further analysis if needed.
+1. Demographics: Age; Gender; Level of Education
+2. positional data inside game.
+3. (Ego)Angular deviation
+4. Coordinate data
+5. Accuracy (memory)
+6. Angular data.
+7. Time.
+8. User id/Name/Session id.
 
 Enjoy your journey through the stars with SPACE!
