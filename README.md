@@ -33,7 +33,7 @@ To start your adventure, you need to log in to the game:
 
 If you don't have an account yet, click on **Sign Up** to create a new one.
 
-## 3. Play! Settings! Movie [Movie- nana]
+## 3. Play! Settings! Movie
 ### Play
 Once logged in, you can start playing:
 
