@@ -145,8 +145,9 @@ Once satisfied with the settings, press **Done** to apply and save your configur
 ### Movie [Nana]
 Watch the introductory movie to get a feel of the game:
 
-1. From the main menu, select **Watch Intro Movie**.
+1. From the main menu, select **Movie**.
 2. Sit back and enjoy the cinematic introduction to SPACE.
+3. There are two instructional movies: One is the walk through of different tasks. And Another one is about the configuration panel. 
 
 ## 4. Setup your own customized game with configuration
 You can tailor the game to your liking by setting up a customized game:
