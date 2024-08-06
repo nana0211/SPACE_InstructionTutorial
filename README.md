@@ -20,7 +20,7 @@
 - [4. Setup your own customized game with configuration](#4-setup-your-own-customized-game-with-configuration)
 - [5. Output Data](#5-output-data)
 
-## 1. Introduction of the game SPACE [Giorgio]
+## 1. Introduction of the game SPACE
 Welcome to **SPACE**!
 
 SPACE is an iPad-based serious game that provides an in-depth evaluation of spatial ability that may indicative for the early detection of cognitive impairment.
