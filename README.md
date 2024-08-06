@@ -1,4 +1,4 @@
-# SPACE_InstructionTutorial
+# SPACE Instructions
 # Welcome to the <SPACE> cognitive evaluation game.
 ![Space Game Logo](Splashscreen.png)
 
@@ -32,6 +32,8 @@ The game is set on a foreign planet in order to captivate players while creating
 The game is optimised for older adults using tasks that are intuitive and complemented by tutorial videos and real-time instructions and the companion robot support players through each stage of the game and provides instructions, feedback (e.g., facial expressions), and rewards (e.g., performance badges). 
 We also developed various types of controls (i.e., Tap & Swipe, Joystick, and Anchor) that cater to different experience levels and may assist in overcoming difficulties when interacting with tablets for older adults.
 
+  <img src="loading_screen.PNG" alt="SPACE loading screen" width="400" class="float-left">
+
 ### The tasks in SPACE
 
 #### Training
@@ -42,6 +44,8 @@ We also developed various types of controls (i.e., Tap & Swipe, Joystick, and An
 **Circuit.** The player learns to integrate rotations and translations by following the robot in a circuit around the planet. This phase is uniquely available if the Tap & Swipe control is used.
 
 **Homing.** The player follows the robot from the rocket to two space stations on the planet before being asked to return unaided to the rocket. Throughout this task, the rocket remains visible to the player. Homing introduces the player to the logic of the path integration task.
+
+<img src="SPACE_screenshots.png" alt="SPACE screenshots" width="400">
 
 #### Spatial tasks
 **Path integration.** The player follows the robot to two distinct landmarks on the planet before being asked to return unaided to the rocket. At each landmark, the robot scans an item that the player will be asked to recall in a subsequent task of the game. Different from Homing in training, the rocket takes off at the start of each trial and remains invisible until the player completes the return journey and signals for its landing. At the end of each trial, the player is transported to the correct location of the rocket.
@@ -58,16 +62,19 @@ The player is asked to imagine standing at a landmark facing another landmark by
 Data on rotation, translation, angular error, distance error, and time will be used to inform on player performance on all the tasks in SPACE.  
 
 #### SPACE ecosystem
+<img src="Exp_menu.PNG" alt="SPACE ecosystem" width="400">
 SPACE include also an ecosystem which is designed to allow researchers and clinicians with limited coding ability to easily configure each task according to their needs. 
 Through the Experimenter Menu, users can select the language, type of control interface, the speed of the robot and astronaut, set the volume of music and sound effects, and decide whether to include pre-and post-game questionnaires. 
 Users can also decide which spatial tasks (including training) will be part of the assessment, along with the task order and number of session repetitions. 
 Due to the game's inherent logic, the path integration task is always the first to be completed since the knowledge acquired during this task (e.g., the position of landmarks) is necessary to complete the subsequent tasks. 
-Through various configuration menus, users can set the number and position of landmarks in the VE included in the configuration, along with the order and characteristics of each trial. 
+Through various configuration menus, users can set the number and position of landmarks in the VE included in the configuration, along with the order and characteristics of each trial.
 Inherent to the configuration menus, a logic system allows users to proceed only if all the generated trials can be executed in the VE. 
 Other functions such as repetitions, automated trial generation, and randomisation of trials offer novel and quick ways to design and conduct experiments on the fly. 
 Finally, users can verify, in real-time, measures of the angular and distance relationships between landmarks to define different levels of difficulty. 
 SPACE was designed to facilitate deployment in clinical settings where time is of the essence, and the clinician's knowledge of the SPACE ecosystem is limited. 
 Through shortcut buttons or by importing JSON files in the Experimenter menu, clinicians and researchers can quickly load, administer, and share predefined configurations for their assessments consistently across clinics and laboratories worldwide.
+
+
 
 ## 2. Log in [Nana]
 To start your adventure, you need to log in to the game:
