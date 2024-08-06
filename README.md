@@ -21,18 +21,18 @@
 - [5. Output Data](#5-output-data)
 
 ## 1. Introduction of the game SPACE
+ <img src="loading_screen.PNG" alt="SPACE loading screen" width="400" class="float-left">
+ 
 Welcome to **SPACE**!
 
-SPACE is an iPad-based serious game that provides an in-depth evaluation of spatial ability that may indicative for the early detection of cognitive impairment.
-In SPACE, players assume the role of an astronaut sent on a mission to uncover the potential of the new planet to harbour life. 
-The game starts with an extensive training phase that allows players of all ages to familiarise themselves with the control interface while assessing basic visuospatial skills. 
-The training phase effectively reduces confounds by ensuring all players thoroughly understand the control interface before progressing to the main tasks. 
-SPACE includes five spatial tasks (i.e., path integration, egocentric pointing, mapping, associative memory, and perspective taking) designed to recruit critical brain regions involved in spatial navigation describes the training phase and the different tasks in SPACE.
-The game is set on a foreign planet in order to captivate players while creating a suitable environment void of landmarks, which is essential when assessing the acquisition of spatial knowledge.
-The game is optimised for older adults using tasks that are intuitive and complemented by tutorial videos and real-time instructions and the companion robot support players through each stage of the game and provides instructions, feedback (e.g., facial expressions), and rewards (e.g., performance badges). 
-We also developed various types of controls (i.e., Tap & Swipe, Joystick, and Anchor) that cater to different experience levels and may assist in overcoming difficulties when interacting with tablets for older adults.
+SPACE is an iPad-based serious game designed for a thorough evaluation of spatial abilities, which can be indicative of early cognitive impairment. In SPACE, players take on the role of an astronaut on a mission to determine if a new planet can support life.
 
-  <img src="loading_screen.PNG" alt="SPACE loading screen" width="400" class="float-left">
+The game begins with an extensive training phase that allows players of all ages to familiarize themselves with the control interface while assessing basic visuospatial skills. This phase effectively minimizes confounding variables by ensuring players understand the interface before moving on to the main tasks.
+
+SPACE features five spatial tasks: path integration, egocentric pointing, mapping, associative memory, and perspective-taking. These tasks are designed to recruit critical brain regions (i.e., hippocampus and entorhinal cortex) involved in spatial navigation. Set on a foreign planet, the game captivates players while providing an environment devoid of landmarks, which is crucial for assessing spatial knowledge acquisition.
+
+SPACE uses intuitive tasks supported by tutorial videos, real-time instructions, and a companion robot that guides players through each stage, offering feedback (e.g., facial expressions) and rewards (e.g., performance badges). Additionally, various control options (Tap & Swipe, Joystick, and Anchor) are available to accommodate different experience levels and help older adults interact more easily with the tablet.
+
 
 ### The tasks in SPACE
 
