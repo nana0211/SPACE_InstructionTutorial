@@ -21,7 +21,7 @@
 - [5. Output Data](#5-output-data)
 
 ## 1. Introduction of the game SPACE
- <img src="loading_screen.PNG" alt="SPACE loading screen" width="400" class="float-left">
+ <img src="loading_screen.PNG" alt="SPACE loading screen" class="float-left">
  
 Welcome to **SPACE**!
 
@@ -45,7 +45,7 @@ SPACE uses intuitive tasks supported by tutorial videos, real-time instructions,
 
 **Homing.** The player follows the robot from the rocket to two space stations on the planet before being asked to return unaided to the rocket. Throughout this task, the rocket remains visible to the player. Homing introduces the player to the logic of the path integration task.
 
-<img src="SPACE_screenshots.png" alt="SPACE screenshots" width="400">
+<img src="SPACE_screenshots.png" alt="SPACE screenshots" >
 
 #### Spatial tasks
 **Path integration.** The player follows the robot to two distinct landmarks on the planet before being asked to return unaided to the rocket. At each landmark, the robot scans an item that the player will be asked to recall in a subsequent task of the game. Different from Homing in training, the rocket takes off at the start of each trial and remains invisible until the player completes the return journey and signals for its landing. At the end of each trial, the player is transported to the correct location of the rocket.
