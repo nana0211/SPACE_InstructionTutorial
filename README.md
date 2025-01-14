@@ -62,7 +62,7 @@ The player is asked to imagine standing at a landmark facing another landmark by
 Data on rotation, translation, angular error, distance error, and time will be used to inform on player performance on all the tasks in SPACE.  
 
 #### SPACE ecosystem
-<img src="Exp_menu.PNG" alt="SPACE ecosystem" width="400">
+<img src="Exp_menu.PNG" alt="SPACE ecosystem" >
 SPACE include also an ecosystem which is designed to allow researchers and clinicians with limited coding ability to easily configure each task according to their needs. 
 Through the Experimenter Menu, users can select the language, type of control interface, the speed of the robot and astronaut, set the volume of music and sound effects, and decide whether to include pre-and post-game questionnaires. 
 Users can also decide which spatial tasks (including training) will be part of the assessment, along with the task order and number of session repetitions. 
