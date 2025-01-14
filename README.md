@@ -94,7 +94,7 @@ Once logged in, you can start playing:
 3. Start your mission and enjoy the adventure.
 
 ### Settings
-#### Configuration Panel – Instructions [Somehow Done]
+#### Configuration Panel – Instructions
 
 This is the panel in which you can set the configuration of the path integration task and decide which landmarks to involve in it. In the configuration panel there are different sections: the **Canvas**, the **Top Panel (TP)**, the **Right Panel (RP)**, the **Left Panel (LP)**, and the **Bottom Panel (BP)**. Each of these parts has its specific functionality.
 
