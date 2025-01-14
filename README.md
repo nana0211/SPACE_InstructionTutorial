@@ -76,11 +76,10 @@ Through shortcut buttons or by importing JSON files in the Experimenter menu, cl
 
 
 
-## 2. Log in [Nana]
+## 2. Log in
 To start your adventure, you need to log in to the game:
-
 1. Open the SPACE game application.
-2. Enter your username and password that we send to you.
+2. Enter your username and password that we send to you. [e.g. username: berserker0211@gmail.com    password: ilovemit0211 ]
 3. Click the **Log In** button.
 4. Once you log in, the app will auto login everytime you use SPACE again. 
 
