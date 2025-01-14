@@ -83,7 +83,7 @@ To start your adventure, you need to log in to the game:
 3. Click the **Log In** button.
 4. Once you log in, the app will auto login everytime you use SPACE again. 
 
-If you don't have an account yet, click on **Sign Up** to create a new one.
+ **Registration** function will come later! 
 
 ## 3. Play! Settings! Movie
 ### Play
